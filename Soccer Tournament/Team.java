@@ -7,7 +7,7 @@
  */
 public class Team
 {
-    // instance variables - replace the example below with your own
+    // instance variables
     private String teamCountry;
 
     /**
@@ -20,20 +20,15 @@ public class Team
     }
 
     /**
-     * An example of a method - replace this comment with your own
-     *
-     *
      * @return    the name of the country
      */
     public String getCountry()
     {
-        // put your code here
         return teamCountry;
     }
     
     /**
      *  @param newCountry is the new name of a country in case it needs modified
-     * 
      */
     public void setCountry(String newCountry)
     {
