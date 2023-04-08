@@ -11,7 +11,7 @@ import java.util.Collections;
  */
 public class Tournament
 {
-    // instance variables - replace the example below with your own
+    // instance variables
     private ArrayList<Team> competitors;
 
     /**
@@ -26,8 +26,6 @@ public class Tournament
     /**
      * This simply adds all the countries listed in the assignment all at once.
      * If you wish to add invidual teams, see the addTeam() method.
-     * 
-     *
      */
     public void createTourney()
     {
@@ -78,7 +76,6 @@ public class Tournament
     
     /**
      * Adds individual teams to the competitors collection.
-     * 
      */
     public void addTeam(String teamName)
     {
