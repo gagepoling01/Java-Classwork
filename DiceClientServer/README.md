@@ -1,1 +1,1 @@
-
+An exercise in Sockets, this project consists of Client, which sends messages to Server, which handshakes, then closes the connection on the Client sending a ".", or it rolls dice based on an integer amount the Client sends. After adding the dice up, Server sends the result to Client, which prints out the total dice roll.
