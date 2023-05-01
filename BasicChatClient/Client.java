@@ -9,7 +9,7 @@ public class Client {
     private Scanner chat;
     private String name;
 
-    public static void main(String[] args) {														// main method
+    public static void main(String[] args) {													    // main method
     	try {
     		Client client = new Client();
     		client.startConnection("127.0.0.1", 6666);
