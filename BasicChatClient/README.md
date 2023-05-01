@@ -1,4 +1,4 @@
-CURRENTLY AT: TIER 0.5
+CURRENTLY AT: TIER 1
 
 This assignment was set up in tiers.
 
